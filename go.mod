@@ -1,4 +1,4 @@
-module microservices/go_lib_response
+module github.com/michael870917/go_lib_response
 
 go 1.27.0
 
